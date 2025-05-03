@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Allow directories to be searched
+!*/
+
+# Allow all the following file extensions
+!**/*.dat
+!**/*.ini
+!**/*.md
+
+# Prevent self-ignoring
+!.gitignore
